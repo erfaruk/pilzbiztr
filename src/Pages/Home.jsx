@@ -16,8 +16,7 @@ function Home () {
         <Mid></Mid>
         <NewProds></NewProds>
         <Contact></Contact>
-        <Footer></Footer>  
-            
+        <Footer></Footer>   
         </>
     );
 }
