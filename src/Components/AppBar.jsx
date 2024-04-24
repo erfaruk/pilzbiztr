@@ -117,7 +117,7 @@ function ResponsiveAppBar(props) {
     <CssBaseline />
     <ElevationScroll {...props}>
     <AppBar position='sticky' sx={{ backgroundColor: "grey", marginTop:'-45px'}}>
-      <Container maxWidth="xl">
+      <Container maxWidth="xxl">
         <Toolbar disableGutters>
           <Box flexGrow={1}>
             <img src={logo} alt="pilz logo" class="h-14 pr-1 hidden md:block sm:hidden" />
